@@ -1,7 +1,5 @@
 <img src="./images/logo-colored.svg" align="right" width="100"/>
 
-# Toba
+# TypeScript Modules
 
-
-
-Our public GitHub projects are libraries used within Toba applications.
+Most Toba libraries are published to *npm* in their original TypeScript format. 
